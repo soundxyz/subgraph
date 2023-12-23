@@ -1,4 +1,4 @@
-# Sound.xyz subgraph
+# ⛔️ DEPRECATED Sound.xyz subgraph
 
 Current subgraph here: https://thegraph.com/hosted-service/subgraph/schmidsi/sound-subgraph?query=Example%20query
 
